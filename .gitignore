@@ -1,0 +1,36 @@
+# .NET Core
+obj/
+bin/
+*.dll
+*.exe
+
+# NuGet
+*.nuget.props
+*.pfx
+*.snk
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.vscode-test/
+
+# Rider
+.idea/
+*.sln.iml
+./**/workspace.xml
+./**/tasks.xml
+./**/com.jetbrains*
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
